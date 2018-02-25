@@ -8,7 +8,7 @@ import mf_object
 import numpy as np
 
 net,meta = dn.load_weights()
-vidcap = cv2.VideoCapture('data/walking2.mp4')
+vidcap = cv2.VideoCapture('data/test.mov')
 success = True
 count = 0
 """success,image = vidcap.read()
