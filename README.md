@@ -19,7 +19,7 @@ It requires the following python 2.7 dependencies
 * cv2 (opencv)
 * matplotlib
 
-After cloning the repository, in the darknet folder type 'make'. After that you should be able to use the vp.py file in order to process any video. Currently, this requires you to go in and change the current video in the file. The default should be alright though.
+After cloning the repository, in the code folder type 'make'. After that you should be able to use the vp.py file in order to process any video. Currently, this requires you to go in and change the current video in the file. The default should be alright though.
 
 Other Sources of Documentation
 ------------------------------
